@@ -151,4 +151,4 @@ Electronics & Telecommunication Engineer | VLSI Enthusiast
 
 ---
 
-Do you want me to also create a **LinkedIn post version** (short, catchy, recruiter-facing) like we did for your previous projects?
+
